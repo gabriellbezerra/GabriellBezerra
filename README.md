@@ -1,9 +1,10 @@
-<div align="center"><h1>👋 Olá, tudo bom ? Seja Bem Vindo(a) 👋 </h1></div>
+<div align="center"><h1>👋 Hello, Welcome to my profile 👋 </h1></div>
  
 <div align="center">
   <a href="https://github.com/gabriellbezerra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellbezerra&show_icons=false&theme=midnight-purple&border_color=963aed&border_radius=5&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbezerra&layout=compact&border_color=963aed&border_radius=2.5&langs_count=7&theme=midnight-purple"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabriellbezerra&show_icons=false&theme=midnight-purple&border_color=963aed&border_radius=5&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbezerra&layout=compact&border_color=963aed&border_radius=3.5&langs_count=7&theme=midnight-purple"/>
+   </a>
 </div>
   
 <div style = "display: inline_block">
@@ -19,10 +20,16 @@
   </div>
 </div>
   
+  ##
   
+  <div align="center">
+  <a href="https://www.youtube.com/channel/UCEaPlgqsWEfBRgVDigjG1AQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-bezerra-303b12161/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div> 
+ 
+  ##
   
 - 💻 I’m NOT currently working .
 - 📚 I’m currently graduating on Computer Engineering .
 - 🤓 I’m looking for learn most I can in short time .
 - ✉️ How to reach me: publicgabriellbezerra@gmail.com
-- 🤣 Fun and Sad fact: I recently quited from a MMO game that was CONSUMING my entiry time and life, I lost some time of university and studies, but now I'm recovering that 🔥🤯🔥
