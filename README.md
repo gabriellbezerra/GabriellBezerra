@@ -29,7 +29,7 @@
  
   ##
   
-- 💻 I’m NOT currently working .
+- 💻 Currently working in internship .
 - 📚 I’m currently graduating on Computer Engineering .
 - 🤓 I’m looking for learn most I can in short time .
-- ✉️ How to reach me: publicgabriellbezerra@gmail.com
+- ✉️ How to reach me: ackermanngabriell@gmail.com
