@@ -1,35 +1,23 @@
-<div align="center"><h1>👋 Hello, Welcome to my profile 👋 </h1></div>
- 
-<div align="center">
-  <a href="https://github.com/gabriellbezerra">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabriellbezerra&show_icons=false&theme=midnight-purple&border_color=963aed&border_radius=5&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbezerra&layout=compact&border_color=963aed&border_radius=3.5&langs_count=7&theme=midnight-purple"/>
-   </a>
-</div>
-  
-<div style = "display: inline_block">
-  <div align="center">
-    <img align="center" alt="GBcs++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="GBPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="GBJv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="GBCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="GBHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="GBKot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
-    <img align="center" alt="GBFig" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="GBPht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  </div>
-</div>
-  
-  ##
-  
-  <div align="center">
-  <a href="https://www.youtube.com/channel/UCEaPlgqsWEfBRgVDigjG1AQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-bezerra-303b12161/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div> 
- 
-  ##
-  
-- 💻 Currently working in internship .
-- 📚 I’m currently graduating on Computer Engineering .
-- 🤓 I’m looking for learn most I can in short time .
-- ✉️ How to reach me: ackermanngabriell@gmail.com
+<div align="left"><h1>👋 Hello, I'm Gabriel 👋 </h1></div>
+
+- 💻 Currently practicing data engineering.
+- 🧑‍🎓 Formed as a Comuter Engineer.
+- 💼 Looking for work.
+- ✉️ ackermanngabriell@gmail.com.
+
+<div align="left"><h1>💻 Tech Stack </h1></div>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
